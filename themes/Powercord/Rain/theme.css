@@ -1,0 +1,50 @@
+/**
+ * @name Rain
+ * @author Gibbu#1211
+ * @version 2.0.0
+ * @description Display your picture of choice with adjustable blur and brightness. Dark theme is required
+ * @invite ZHthyCw
+ * @donate https://paypal.me/IanRGibson
+ * @authorId 174868361040232448
+ * @source https://github.com/Gibbu/BetterDiscord-Themes/tree/master/FrostedGlass
+ * @website https://gibbu.me
+*/
+
+/* This theme was edited using https://gibbu.me/editor/frostedglass */
+
+@import url('https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/base.css');
+@import url('https://discord-custom-covers.github.io/usrbg/snippets/userPopouts.css');
+@import url('https://discord-custom-covers.github.io/usrbg/snippets/modals.css');
+@import url('https://monstrousdev.github.io/themes/addons/user-tags.css');
+@import url('https://gibbu.github.io/BetterDiscord-Themes/addons/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://i.imgur.com/6wcVhZs.gif');
+  --background-image-blur: 2px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-modal-image: var(--background-image);
+  --popout-modal-blur: 0px;
+  --popout-modal-size: cover;
+  --popout-modal-position: center;
+  --home-button-image: url('https://thumbs.gfycat.com/SphericalNegligibleFreshwatereel-size_restricted.gif');
+  --home-button-size: cover;
+  --home-button-position: center;
+  --serverlist-brightness: 0.5;
+  --left-brightness: 0.5;
+  --middle-brightness: 0.2;
+  --right-brightness: 0;
+  --popout-modal-brightness: 0.75;
+  --tint-colour: 51,120,255;
+  --tint-brightness: 0.08;
+  --gradient-primary: 0,0,167;
+  --gradient-secondary: 0,187,255;
+  --gradient-direction: 198deg;
+  --window-padding: 13px;
+  --window-roundness: 15px;
+  --scrollbar-colour: rgba(229,0,0,0);
+  --link-colour: #00f3e1;
+  --show-gift-gif-buttons: none;
+  --font: 'Whitney';
+  --update-notice-1: none;
+}

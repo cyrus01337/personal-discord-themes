@@ -1,0 +1,61 @@
+/**
+ * @name Lights
+ * @author Gibbu#1211
+ * @version 2.0.0
+ * @description Display your picture of choice with adjustable blur and brightness. Dark theme is required.
+ * @invite ZHthyCw
+ * @donate https://paypal.me/IanRGibson
+ * @authorId 174868361040232448
+ * @source https://github.com/Gibbu/BetterDiscord-Themes/tree/master/FrostedGlass
+ * @website https://gibbu.me
+*/
+
+/* This theme was edited using https://gibbu.me/editor/frostedglass */
+
+@import url('https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/base.css');
+@import url('https://discord-custom-covers.github.io/usrbg/snippets/userPopouts.css');
+@import url('https://discord-custom-covers.github.io/usrbg/snippets/modals.css');
+@import url('https://monstrousdev.github.io/themes/addons/user-tags.css');
+@import url('https://gibbu.github.io/BetterDiscord-Themes/addons/windows-titlebar.css');
+@import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
+
+:root {
+  --background-image: url('https://uhdwallpapers.org/uploads/converted/19/05/20/lights-in-darkness-image-1920x1080_898688-mm-90.jpg');
+  --background-image-blur: 7px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-modal-image: var(--background-image);
+  --popout-modal-blur: 15px;
+  --popout-modal-size: cover;
+  --popout-modal-position: center;
+  --home-button-image: url('https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/assets/discord.svg');
+  --home-button-size: cover;
+  --home-button-position: center;
+  --serverlist-brightness: 0.8;
+  --left-brightness: 0.8;
+  --middle-brightness: 0.6;
+  --right-brightness: 0;
+  --popout-modal-brightness: 0.8;
+  --gradient-primary: 95,0,191;
+  --gradient-secondary: 191,0,191;
+  --gradient-direction: 270deg;
+  --tint-colour: 255,51,159;
+  --tint-brightness: 0;
+  --window-padding: 12px;
+  --window-roundness: 12px;
+  --scrollbar-colour: rgba(255,255,255,0.1);
+  --link-colour: #00b0f4;
+  --show-gift-gif-buttons: none;
+  --font: 'Whitney';
+  --update-notice-1: none;
+  --rs-small-spacing: 0px;
+  --rs-large-spacing: 0px;
+  --rs-width: 2.5px;
+  --rs-avatar-shape: 25%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-invisible-color: #747f8d;
+}
