@@ -32,7 +32,8 @@ This repository has no other purpose other than to share themes that I have crea
 ![Mountain](https://i.imgur.com/iUVs6M6.png)
 
 ### Rain
-![Rain](https://i.imgur.com/JP9RPFT.gif)
+![Rain](https://i.imgur.com/KkdFos7.jpg)
+[Animated](https://i.imgur.com/JP9RPFT.mp4)
 
 ### Sky
 ![Sky](https://i.imgur.com/Q3C5xnk.jpeg)
