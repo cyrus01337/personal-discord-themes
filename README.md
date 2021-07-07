@@ -10,8 +10,8 @@ This repository has no other purpose other than to share themes that I have crea
 
 ## Previews
 
-### [NEW] Forest
-![Forest](https://i.imgur.com/rY1wNwX.jpg)
+### [NEW] Winds
+![Winds](https://i.imgur.com/JkFKv1i.jpeg)
 
 ### Standard
 ![Standard](https://i.imgur.com/ucMKHGX.png)
@@ -21,6 +21,9 @@ This repository has no other purpose other than to share themes that I have crea
 
 ### Bike
 ![Bike](https://i.imgur.com/MhuU8Ut.jpeg)
+
+### Forest
+![Forest](https://i.imgur.com/rY1wNwX.jpg)
 
 ### Lights
 ![Lights](https://i.imgur.com/UFUVJEB.png)
