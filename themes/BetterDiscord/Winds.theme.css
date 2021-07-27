@@ -10,9 +10,9 @@
  * @authorId 174868361040232450
 */
 
-@import url('https://discordstyles.github.io/FrostedGlass/base.css');
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
 @import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
-@import url('https://discordstyles.github.io/RadialStatus/base.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 
 :root {
   --background-image: url('https://i.imgur.com/OuS5AUh.jpg');
